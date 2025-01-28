@@ -1,7 +1,7 @@
 
 # Rainbow WeChatKey
 
-![Static Badge](https://img.shields.io/badge/HomePage-%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-green?logo=R&link=https://www.chwm.vip/?wxkey_vip) [www.chwm.vip](https://www.chwm.vip/?wxkey_vip)
+![Static Badge](https://img.shields.io/badge/HomePage-%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-green?logo=R&link=https://www.chwm.vip/?wxkey_gh) [www.chwm.vip](https://www.chwm.vip/?wxkey_gh)
 
 ![Static Badge](https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-blue?logo=C&link=https://t.me/rb_nt) [Telegram：@rb_nt](https://t.me/rb_nt)
 
