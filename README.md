@@ -1,4 +1,5 @@
-# <center>Rainbow WeChatKey</center> 
+
+<center>Rainbow WeChatKey</center> 
 
 ![Static Badge](https://img.shields.io/badge/HomePage-%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-green?logo=R&link=https://www.chwm.vip/?wxkey_vip)
 
@@ -32,4 +33,4 @@
 
 ***
 
-<center>请用户慎重阅读并理解本免责声明的所有内容，确保在使用本项目时严格遵守相关规定。</center> 
+* 请用户慎重阅读并理解本免责声明的所有内容，确保在使用本项目时严格遵守相关规定。
