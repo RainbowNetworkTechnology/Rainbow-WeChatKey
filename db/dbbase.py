@@ -38,7 +38,7 @@ class DatabaseSingletonBase:
         """
         if not db_config:
             raise ValueError("db_config 不能为空")
-        db_key = db_config.get("key", "xaoyaoo_741852963")
+        db_key = db_config.get("key", "Rainbow_360108888")
         db_type = db_config.get("type", "sqlite")
         if db_key in cls._db_pool and cls._db_pool[db_key] is not None:
             return cls._db_pool[db_key]
